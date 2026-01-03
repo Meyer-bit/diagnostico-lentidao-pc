@@ -1,0 +1,9 @@
+==== RELATÓRIO DE LENTIDÃO ====
+Início: 2026-01-03 16:45:37.978971
+Fim: 2026-01-03 16:46:04.025878
+Duração: 0:00:26.046907
+CPU média: 22.08%
+RAM média: 78.00%
+Processos: opera.exe, System Idle Process, Code.exe
+Diagnóstico: A lentidão foi causada principalmente pelo alto uso de memória RAM. Os programas mais envolvidos foram: opera.exe, System Idle Process, Code.exe. A lentidão durou aproximadamente 0:00:26.046907. Sugestão: feche programas não utilizados ou evite abrir muitos aplicativos ao mesmo tempo.
+
