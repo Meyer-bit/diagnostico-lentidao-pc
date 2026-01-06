@@ -33,7 +33,7 @@ O sistema não apenas coleta dados, mas:
 
 ## 📁 Estrutura do Projeto
 
-```text
+```sh
 diagnostico-lentidao/
 ├── monitor.py
 ├── data/
@@ -41,7 +41,7 @@ diagnostico-lentidao/
 ├── reports/
 │   └── relatorio.txt
 └── README.md
-
+```
 
 ## ⚙️ Requisitos
 
